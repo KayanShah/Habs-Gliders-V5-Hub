@@ -2,7 +2,7 @@ import Foundation
 
 struct Secrets {
     // OpenAI API Key
-    static let openAIKey = "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"
+    static let openAIKey = "" //Hidden for data protection reasons, add your openAI API key here
     
     // Training instructions / advice for AI
     static let trainingInstructions = """

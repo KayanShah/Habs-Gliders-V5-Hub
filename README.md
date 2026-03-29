@@ -1,11 +1,11 @@
-Habs Gliders V5 Hub
+Habs Gliders VEX Robotics V5 Hub App
 
 **Attribution: You must credit the original author, Kayan Shah (github.com/KayanShah), whenever this software or its derivatives are used, shared, or published.**
 
 
 **Overview**
 
-Habs Gliders V5 Hub is a centralized app designed to help VEX robotics teams organize strategies, track competitions, and leverage AI insights. It streamlines collaboration by providing a single platform for team notes, match planning, and data-driven decision making.
+Habs Gliders V5 Hub is a centralised app designed to help VEX robotics teams organise strategies, track competitions, and leverage AI insights. It streamlines collaboration by providing a single platform for team notes, match planning, and data-driven decision making.
 
 During competitions, teams often struggle with scattered notes and unshared strategies. This app solves that by providing:
 	•	AI-driven insights for strategy analysis.

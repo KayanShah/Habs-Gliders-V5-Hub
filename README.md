@@ -92,4 +92,4 @@ What this means:
 	•	You are free to use, modify, and distribute this software.
 	•	If you share this app or make it available over a network, you must also share the source code under the same license.
 	•	Any modifications you make must also be shared under the AGPL-3.0.
-  • **Attribution: You must credit the original author, Kayan Shah (github.com/KayanShah), whenever this software or its derivatives are used, shared, or published.**
+    • **Attribution: You must credit the original author, Kayan Shah (github.com/KayanShah), whenever this software or its derivatives are used, shared, or published.**

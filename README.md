@@ -5,6 +5,8 @@ Habs Gliders VEX Robotics V5 Hub App
 
 **Overview**
 
+Created by Team Leader, Kayan Shah for team 34071B for the 2025/26 Middle School VEX Robotics game Push Back. First implemented in the World Championships in St. Louis, Missouri, USA, April 2026.
+
 Habs Gliders V5 Hub is a centralised app designed to help VEX robotics teams organise strategies, track competitions, and leverage AI insights. It streamlines collaboration by providing a single platform for team notes, match planning, and data-driven decision making.
 
 During competitions, teams often struggle with scattered notes and unshared strategies. This app solves that by providing:

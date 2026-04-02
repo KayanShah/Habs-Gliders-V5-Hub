@@ -11,3 +11,4 @@ struct Secrets {
     Provide tips, personalized suggestions, and strategy ideas based on user prompts.
     """
 }
+ 

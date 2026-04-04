@@ -1,4 +1,4 @@
-Habs Gliders VEX Robotics V5 Hub App
+## Habs Gliders VEX Robotics V5 Hub App
 
 **Attribution: You must credit the original author, Kayan Shah (github.com/KayanShah), whenever this software or its derivatives are used, shared, or published.**
 
@@ -16,21 +16,21 @@ During competitions, teams often struggle with scattered notes and unshared stra
 
 ⸻
 
-**Features**
+## Features
 
-AI Section
+**AI Section**
 	•	Custom-trained AI specifically for the team.
 	•	Uses OpenAI GPT-5.2 for accurate VEX-specific recommendations.
 	•	Provides insights based on verified VEX competition rules and data.
 	•	Assists in planning and optimizing match strategies.
 
-Strategy Section
+**Strategy Section**
 	•	Draw and annotate strategy diagrams.
 	•	Add team assignments, mark positions, and save progress.
 	•	Save multiple diagrams per competition.
 	•	Easily recall and edit saved strategies.
 
-Competitions Section
+**Competitions Section**
 	•	Track all matches for a given competition.
 	•	Include team pairings, match numbers (e.g., P1, Q1-Q13), and alliance details.
 	•	Quick access to match information including date, location, and teams.
@@ -38,7 +38,7 @@ Competitions Section
 
 ⸻
 
-**Installation**
+## Installation
 
 Requirements
 	•	Xcode 15+ (or latest compatible version)
@@ -59,7 +59,7 @@ open "Habs Gliders V5 Hub.xcodeproj"
 
 ⸻
 
-**Usage**
+## Usage
 
 AI
 	•	Navigate to the AI tab to get suggestions for match strategies.
@@ -76,7 +76,8 @@ Competitions
 
 ⸻
 
-**Contributing**
+
+## Contributing
 	•	Fork the repository.
 	•	Make changes in a separate branch.
 	•	Submit a pull request for review.

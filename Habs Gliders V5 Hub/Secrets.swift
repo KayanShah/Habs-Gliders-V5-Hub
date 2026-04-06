@@ -3,6 +3,7 @@ import Foundation
 struct Secrets {
     // OpenAI API Key
     static let openAIKey = "" //Hidden for data protection reasons, add your openAI API key here inside the ""
+    //Original API has been changed to protect the API Key
     
     // Training instructions / advice for AI
     static let trainingInstructions = """

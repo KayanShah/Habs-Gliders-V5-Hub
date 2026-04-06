@@ -1,4 +1,4 @@
-## Habs Gliders VEX Robotics V5 Hub App
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=12094D&width=435&lines=Habs+Gliders+34071B;IOS+Hub+App;VEX+World+Championships+2026)](https://git.io/typing-svg)
 
 **Attribution: You must credit the original author, Kayan Shah (github.com/KayanShah), whenever this software or its derivatives are used, shared, or published.**
 
